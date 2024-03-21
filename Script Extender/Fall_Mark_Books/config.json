@@ -1,0 +1,9 @@
+{
+	"DEBUG_MESSAGES" : 3,
+	"LOG_ENABLED" : 0,
+	"MOD_ENABLED" : 1,
+	"READ_BOOK_PREFIX" : "[#",
+	"READ_BOOK_SUFFIX" : "#]",
+	"UPDATE_RARITY" : 1,
+	"VERSION" : "1.3.4.0"
+}
