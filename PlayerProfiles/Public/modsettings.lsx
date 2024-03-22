@@ -13,28 +13,16 @@
               <attribute id="UUID" value="396c5966-09b0-40a1-af3f-93a5e9ce71c0" type="FixedString" />
             </node>
             <node id="Module">
-              <attribute id="UUID" value="c72d9f6a-a6e4-48b1-98c0-0ecdc7c31cf7" type="FixedString" />
-            </node>
-            <node id="Module">
-              <attribute id="UUID" value="d58a60aa-2314-4776-a4f9-8b2eb30e51ca" type="FixedString" />
-            </node>
-            <node id="Module">
               <attribute id="UUID" value="60ac6eff-b503-492d-867f-4e7cacf7f57d" type="FixedString" />
             </node>
             <node id="Module">
               <attribute id="UUID" value="210daf61-48c2-4b4b-a1e0-5a2e022a8106" type="FixedString" />
             </node>
             <node id="Module">
-              <attribute id="UUID" value="3e158fb8-686e-4153-9430-e27f4b9fb7f8" type="FixedString" />
+              <attribute id="UUID" value="c72d9f6a-a6e4-48b1-98c0-0ecdc7c31cf7" type="FixedString" />
             </node>
             <node id="Module">
-              <attribute id="UUID" value="5ca0800a-26e1-4da7-a09d-35632e994b34" type="FixedString" />
-            </node>
-            <node id="Module">
-              <attribute id="UUID" value="b65bf886-e9f9-4982-8c20-10e1a2d9b3b6" type="FixedString" />
-            </node>
-            <node id="Module">
-              <attribute id="UUID" value="297c35bb-d0c5-405d-98f4-80f4415d1cf2" type="FixedString" />
+              <attribute id="UUID" value="d58a60aa-2314-4776-a4f9-8b2eb30e51ca" type="FixedString" />
             </node>
             <node id="Module">
               <attribute id="UUID" value="af6809f6-2539-4f38-9af8-6f7b28652fb4" type="FixedString" />
@@ -46,10 +34,10 @@
               <attribute id="UUID" value="58e080fe-4a02-46c0-beba-5ef16c992197" type="FixedString" />
             </node>
             <node id="Module">
-              <attribute id="UUID" value="14132dd7-c606-42d7-8e3f-816a63bd7a14" type="FixedString" />
+              <attribute id="UUID" value="d4405ad7-a4b2-46a8-a397-774d1b549a37" type="FixedString" />
             </node>
             <node id="Module">
-              <attribute id="UUID" value="d4405ad7-a4b2-46a8-a397-774d1b549a37" type="FixedString" />
+              <attribute id="UUID" value="14132dd7-c606-42d7-8e3f-816a63bd7a14" type="FixedString" />
             </node>
             <node id="Module">
               <attribute id="UUID" value="ca3df55b-c576-41a1-87c4-3cf5f01922e4" type="FixedString" />
@@ -64,13 +52,16 @@
               <attribute id="UUID" value="55249f39-faa9-4e51-a36c-0ac6560d8a0c" type="FixedString" />
             </node>
             <node id="Module">
+              <attribute id="UUID" value="63343172-0841-4d21-a6d7-f439bd6a5f91" type="FixedString" />
+            </node>
+            <node id="Module">
               <attribute id="UUID" value="3027e010-2ca6-4775-966a-cd107b383648" type="FixedString" />
             </node>
             <node id="Module">
-              <attribute id="UUID" value="0e6d5cd8-5755-4919-b44d-0a22c3f7cadd" type="FixedString" />
+              <attribute id="UUID" value="5ca0800a-26e1-4da7-a09d-35632e994b34" type="FixedString" />
             </node>
             <node id="Module">
-              <attribute id="UUID" value="67fbbd53-7c7d-4cfa-9409-6d737b4d92a9" type="FixedString" />
+              <attribute id="UUID" value="297c35bb-d0c5-405d-98f4-80f4415d1cf2" type="FixedString" />
             </node>
           </children>
         </node>
@@ -78,10 +69,10 @@
           <children>
             <node id="ModuleShortDesc">
               <attribute id="Folder" value="GustavDev" type="LSString" />
-              <attribute id="MD5" value="6e85f2d2ed7fed78b3a7892b843dcdfc" type="LSString" />
+              <attribute id="MD5" value="43fd251f3f6b0a75661bc738d9cacbf5" type="LSString" />
               <attribute id="Name" value="GustavDev" type="LSString" />
               <attribute id="UUID" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8" type="FixedString" />
-              <attribute id="Version64" value="144959827759161474" type="int64" />
+              <attribute id="Version64" value="144960686752716682" type="int64" />
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" value="CommunityLibrary" type="LSString" />
@@ -89,20 +80,6 @@
               <attribute id="Name" value="CommunityLibrary" type="LSString" />
               <attribute id="UUID" value="396c5966-09b0-40a1-af3f-93a5e9ce71c0" type="FixedString" />
               <attribute id="Version64" value="72339077604573184" type="int64" />
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" value="Fallen_Mark_As_Read" type="LSString" />
-              <attribute id="MD5" value="" type="LSString" />
-              <attribute id="Name" value="Mark Book As Read" type="LSString" />
-              <attribute id="UUID" value="c72d9f6a-a6e4-48b1-98c0-0ecdc7c31cf7" type="FixedString" />
-              <attribute id="Version64" value="36451018073964544" type="int64" />
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" value="BetterDyeing" type="LSString" />
-              <attribute id="MD5" value="" type="LSString" />
-              <attribute id="Name" value="BetterDyeing" type="LSString" />
-              <attribute id="UUID" value="d58a60aa-2314-4776-a4f9-8b2eb30e51ca" type="FixedString" />
-              <attribute id="Version64" value="36169551687188480" type="int64" />
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" value="YieldToTemptation" type="LSString" />
@@ -119,32 +96,18 @@
               <attribute id="Version64" value="36169543097253888" type="int64" />
             </node>
             <node id="ModuleShortDesc">
-              <attribute id="Folder" value="BagsBagsBags" type="LSString" />
+              <attribute id="Folder" value="Fallen_Mark_As_Read" type="LSString" />
               <attribute id="MD5" value="" type="LSString" />
-              <attribute id="Name" value="BagsBagsBags" type="LSString" />
-              <attribute id="UUID" value="3e158fb8-686e-4153-9430-e27f4b9fb7f8" type="FixedString" />
-              <attribute id="Version64" value="144115188075855912" type="int64" />
+              <attribute id="Name" value="Mark Book As Read" type="LSString" />
+              <attribute id="UUID" value="c72d9f6a-a6e4-48b1-98c0-0ecdc7c31cf7" type="FixedString" />
+              <attribute id="Version64" value="36451018073964544" type="int64" />
             </node>
             <node id="ModuleShortDesc">
-              <attribute id="Folder" value="Val_SpellAdjustments_Vanilla" type="LSString" />
+              <attribute id="Folder" value="BetterDyeing" type="LSString" />
               <attribute id="MD5" value="" type="LSString" />
-              <attribute id="Name" value="Valdacil's Spell Adjustments (Vanilla)" type="LSString" />
-              <attribute id="UUID" value="5ca0800a-26e1-4da7-a09d-35632e994b34" type="FixedString" />
-              <attribute id="Version64" value="144537402688405584" type="int64" />
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" value="Val_SpellAdjustments_Vanilla_RemoveIcons" type="LSString" />
-              <attribute id="MD5" value="" type="LSString" />
-              <attribute id="Name" value="Valdacil's Spell Adjustments (Vanilla) - Remove Buff Icons" type="LSString" />
-              <attribute id="UUID" value="b65bf886-e9f9-4982-8c20-10e1a2d9b3b6" type="FixedString" />
-              <attribute id="Version64" value="144537400540921878" type="int64" />
-            </node>
-            <node id="ModuleShortDesc">
-              <attribute id="Folder" value="Val_SpellAdjustments_Vanilla_RemoveFX" type="LSString" />
-              <attribute id="MD5" value="" type="LSString" />
-              <attribute id="Name" value="Valdacil's Spell Adjustments (Vanilla) - Remove FX" type="LSString" />
-              <attribute id="UUID" value="297c35bb-d0c5-405d-98f4-80f4415d1cf2" type="FixedString" />
-              <attribute id="Version64" value="144537400540921873" type="int64" />
+              <attribute id="Name" value="BetterDyeing" type="LSString" />
+              <attribute id="UUID" value="d58a60aa-2314-4776-a4f9-8b2eb30e51ca" type="FixedString" />
+              <attribute id="Version64" value="36310274143158272" type="int64" />
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" value="Rebalance_Cantrips" type="LSString" />
@@ -168,18 +131,18 @@
               <attribute id="Version64" value="36028805608898560" type="int64" />
             </node>
             <node id="ModuleShortDesc">
-              <attribute id="Folder" value="Rebalance_Feats" type="LSString" />
-              <attribute id="MD5" value="" type="LSString" />
-              <attribute id="Name" value="Rebalance_Feats" type="LSString" />
-              <attribute id="UUID" value="14132dd7-c606-42d7-8e3f-816a63bd7a14" type="FixedString" />
-              <attribute id="Version64" value="36028803461414912" type="int64" />
-            </node>
-            <node id="ModuleShortDesc">
               <attribute id="Folder" value="Rebalance_Nerfs" type="LSString" />
               <attribute id="MD5" value="" type="LSString" />
               <attribute id="Name" value="Rebalance_Nerfs" type="LSString" />
               <attribute id="UUID" value="d4405ad7-a4b2-46a8-a397-774d1b549a37" type="FixedString" />
               <attribute id="Version64" value="36028801313931264" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Rebalance_Feats" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Rebalance_Feats" type="LSString" />
+              <attribute id="UUID" value="14132dd7-c606-42d7-8e3f-816a63bd7a14" type="FixedString" />
+              <attribute id="Version64" value="36028803461414912" type="int64" />
             </node>
             <node id="ModuleShortDesc">
               <attribute id="Folder" value="Essential_Feats" type="LSString" />
@@ -210,6 +173,13 @@
               <attribute id="Version64" value="36169534507319296" type="int64" />
             </node>
             <node id="ModuleShortDesc">
+              <attribute id="Folder" value="Druid_Perfection_Progressions" type="LSString" />
+              <attribute id="MD5" value="" type="LSString" />
+              <attribute id="Name" value="Druid_Perfection_Progressions" type="LSString" />
+              <attribute id="UUID" value="63343172-0841-4d21-a6d7-f439bd6a5f91" type="FixedString" />
+              <attribute id="Version64" value="36028797018963968" type="int64" />
+            </node>
+            <node id="ModuleShortDesc">
               <attribute id="Folder" value="WildShape_Viability" type="LSString" />
               <attribute id="MD5" value="" type="LSString" />
               <attribute id="Name" value="WildShape_Viability" type="LSString" />
@@ -217,18 +187,18 @@
               <attribute id="Version64" value="36310284880576512" type="int64" />
             </node>
             <node id="ModuleShortDesc">
-              <attribute id="Folder" value="HonourFeaturesUnlocker" type="LSString" />
+              <attribute id="Folder" value="Val_SpellAdjustments_Vanilla" type="LSString" />
               <attribute id="MD5" value="" type="LSString" />
-              <attribute id="Name" value="Honour Features Unlocker" type="LSString" />
-              <attribute id="UUID" value="0e6d5cd8-5755-4919-b44d-0a22c3f7cadd" type="FixedString" />
-              <attribute id="Version64" value="36591746972385280" type="int64" />
+              <attribute id="Name" value="Valdacil's Spell Adjustments (Vanilla)" type="LSString" />
+              <attribute id="UUID" value="5ca0800a-26e1-4da7-a09d-35632e994b34" type="FixedString" />
+              <attribute id="Version64" value="144678140176760921" type="int64" />
             </node>
             <node id="ModuleShortDesc">
-              <attribute id="Folder" value="SubclassCompatibilityFramework" type="LSString" />
+              <attribute id="Folder" value="Val_SpellAdjustments_Vanilla_RemoveFX" type="LSString" />
               <attribute id="MD5" value="" type="LSString" />
-              <attribute id="Name" value="CompatibilityFramework" type="LSString" />
-              <attribute id="UUID" value="67fbbd53-7c7d-4cfa-9409-6d737b4d92a9" type="FixedString" />
-              <attribute id="Version64" value="72902025410510859" type="int64" />
+              <attribute id="Name" value="Valdacil's Spell Adjustments (Vanilla) - Remove FX" type="LSString" />
+              <attribute id="UUID" value="297c35bb-d0c5-405d-98f4-80f4415d1cf2" type="FixedString" />
+              <attribute id="Version64" value="144537406983372819" type="int64" />
             </node>
           </children>
         </node>
